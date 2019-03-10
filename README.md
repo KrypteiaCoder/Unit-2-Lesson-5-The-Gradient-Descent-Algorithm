@@ -1,0 +1,2 @@
+# Unit-2-Lesson-5-The-Gradient-Descent-Algorithm
+Stopping rules In the implementation programmed above, the only stopping rule involves the number of iterations. As you can see from the plot above, this might be a bit inefficient in this case. Modify the code above by adding a stopping threshold so that the algorithm stops when the difference in error between two successive iterations is less than .001. With that rule, how many iterations do you need before you stop? Please note that this assignment was not finished.  Needs to be reviewed with a mentor.
